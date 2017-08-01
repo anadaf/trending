@@ -21,6 +21,12 @@ Note:
     recent transaction and not take much historical data into account. This can be done by cutting down on the transaction time 
     of the original data.
     
+## Author: 
+```
+Ali Nadaf, PhD
+Data Scientist
+<ali.nadaf@gmail.com>
+```
 ## References:
 https://vincent.is/finding-trending-things/
 https://www.isixsigma.com/tools-templates/statistical-analysis/improved-forecasting-moving-averages-and-z-scores/
