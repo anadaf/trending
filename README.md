@@ -23,3 +23,4 @@ Note:
     
 ## References:
 https://vincent.is/finding-trending-things/
+https://www.isixsigma.com/tools-templates/statistical-analysis/improved-forecasting-moving-averages-and-z-scores/
