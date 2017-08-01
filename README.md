@@ -7,7 +7,9 @@ Trendiness: Item is a trending item when it is mentioned (purchased, cliked, vie
 Algorithm: rolling Z-score
 This is the standard algorithm to find trending items and is simple to implement:
 
+'''
 z=(x-\mu)/\sigma,
+'''
 
 where \mu is the history mean and \sigma is the standard deviation of the history data. In the following code, for every point,
 the above formula is re-applied with a decay factor so that the oldest points carry the less factor value. 
