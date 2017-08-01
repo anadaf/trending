@@ -4,7 +4,7 @@ The code spots the trending items for a given time period. Below I explain that 
 
 Trendiness: Item is a trending item when it is mentioned (purchased, cliked, viewed,etc) more often than usual. 
 
-### Algorithm: rolling Z-score
+### Algorithm: rolling z-score
 This is the standard algorithm to find trending items and is simple to implement:
 ```
 z=(x-\mu)/\sigma,
@@ -20,3 +20,6 @@ Note:
     * You can user this trending method with a sliding window, for instance last 10-day transaction, if you wish to use the 
     recent transaction and not take much historical data into account. This can be done by cutting down on the transaction time 
     of the original data.
+    
+## References:
+https://vincent.is/finding-trending-things/
