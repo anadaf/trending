@@ -35,5 +35,5 @@ Data Scientist
 <ali.nadaf@gmail.com>
 ```
 ## References:
-https://vincent.is/finding-trending-things/
-https://www.isixsigma.com/tools-templates/statistical-analysis/improved-forecasting-moving-averages-and-z-scores/
+1. https://vincent.is/finding-trending-things/
+2. https://www.isixsigma.com/tools-templates/statistical-analysis/improved-forecasting-moving-averages-and-z-scores/
