@@ -1,8 +1,7 @@
 """
 Calculating trending items
 
-Qi Leap analutics Inc.
-- Author: Ali@qileap.com
+- Author: Ali Nadaf
 ------------------------
 The code spots the trending items for a given time period. Below I explain that how trendiness is determined.
 
