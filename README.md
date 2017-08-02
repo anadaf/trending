@@ -20,7 +20,7 @@ Note:
     * You can user this trending method with a sliding window, for instance last 10-day transaction, if you wish to use the 
     recent transaction and not take much historical data into account. This can be done by cutting down on the transaction time 
     of the original data.
-## Requirements
+## Dependencies
  - math
  - seasonal
  - mathplotlib
