@@ -1,5 +1,5 @@
 # Trending
-## How to determine the trending of items
+## How to determine trending items
 The code spots the trending items for a given time period. Below I explain that how trendiness is determined.
 
 Trendiness: Item is a trending item when it is mentioned (purchased, cliked, viewed,etc) more often than usual. 
